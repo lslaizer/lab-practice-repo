@@ -4,3 +4,6 @@ drwxr-xr-x 1 Loserian.Laizer 1049089  0 Feb  1 11:32 lab-practice-repo/
 -rw-r--r-- 1 Loserian.Laizer 1049089 40 Feb  1 12:23 sample-file.txt
 -rw-r--r-- 1 Loserian.Laizer 1049089 76 Feb  1 12:13 testfile
 -rw-r--r-- 1 Loserian.Laizer 1049089  0 Feb  1 12:31 testfile.txt
+
+
+hii imebadilishwa leo tarehe 1 February 2025 saa 12:48
